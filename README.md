@@ -1,7 +1,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C Sharp-2391230?style=flat&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=Raspberry Pi&logoColor=white"/>
 ### Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siops1&layout=compact)](https://github.com/siops1/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siops1&show_icons=true&theme=dark)
 
 <!--
 **siops1/siops1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
