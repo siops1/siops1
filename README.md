@@ -1,5 +1,6 @@
+<img src="https://img.shields.io/badge/C-#A8B9CC?style=flat&logo=React&logoColor=white"/>
 ### Hi there 👋
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+
 
 <!--
 **siops1/siops1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
