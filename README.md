@@ -3,8 +3,7 @@
 </div>
 
 <div align=center>
-  <h1> junior developer's workspace </h1>
-  <br>
+ <h1> junior developer's workspace </h1>
 </div>
 <div align=center>
   <h3> software programing languagys </h3>
