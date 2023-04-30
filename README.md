@@ -7,7 +7,7 @@
  <br>
 </div>
 <div align=center>
-  <h3> software programing languagys </h3>
+  <h3> software programing language</h3>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
  <img src="https://img.shields.io/badge/C Sharp-2391230?style=flat&logo=C Sharp&logoColor=white"/> 
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
